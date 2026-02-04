@@ -19,7 +19,7 @@ This project simulates a parent–teacher conference booking form. The focus is 
 - CSS3
 
 ## Live Demo
-https://yourusername.github.io/parent-teacher-conference-form/
+https://codebymuz.github.io/parent-teacher-conference-form/
 
 ## What I Learned
 - How to structure forms using semantic HTML
