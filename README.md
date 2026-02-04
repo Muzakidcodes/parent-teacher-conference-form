@@ -3,7 +3,7 @@
 A responsive form built using HTML and CSS as part of the freeCodeCamp Responsive Web Design certification.
 
 ## Screenshot
-![Parent Teacher Conference Form](images/screenshot.png)
+![Parent Teacher Conference Form](images/Screenshot.png)
 
 ## Overview
 This project simulates a parent–teacher conference booking form. The focus is on semantic HTML, accessibility, and clean CSS styling.
